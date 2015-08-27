@@ -1,16 +1,26 @@
-#Acerca de mí
+<table style="width: 100%;background-color: white">
+	<tr>
+		<td style="border: none; width: 50%; vertical-align: bottom;">
+			<h1>Acerca de mí.</h1>
+		</td>
+		<td style="border: none; width: 50%; text-align: right">
+			<img style="width: 100px; display: inline-block; height: auto; border-radius: 5px; vertical-align: -40px" src="https://avatars1.githubusercontent.com/u/1402411?v=3&s=460">
+		</td>
+	</tr>
+</table>
 
 ##Persona
-FullStack Developer con más de 6 años de experiencia desarrollando sistemas para diferentes plataformas. Siempre buscando la mejor solución, a su vez entregar los proyectos a tiempo y con las mejores practicas para futuras mejoras.
+FullStack Developer con más de 6 años de experiencia, con gusto por la programación y siempre dispuesto a tener nuevos retos.
+Adicto a leer blogs, videojuegos y a los Gadgets. Gusto por liderar equipos para compartir mis conocimientos con ellos.
 
 #Datos personales:
  - Nombre: Julio C. Jaramillo
  - Edad: 25 años
  - Estado Civil: Casado
- - Tel: [55 85360138][phone] y [55 19397521][phone2]
+ - Tel: [55 85360138][phone]
  - Email: [theremsoe@gmail.com][gmail]
  - Github: [github.com/theremsoe][github]
- - Linkedid: [mx.linkedin.com/in/theremsoe][linkedid]
+ - Linkedid: [mx.linkedin.com/in/theremsoe][linkedin]
  - Twitter: [twitter.com/theremsoe][twitter]
 
 ##Objetivo personal
@@ -23,6 +33,9 @@ Entre mis metas personales busco iniciar mi Starup para el desarrollo de videoju
 Formación academica en la Facultad de Estudios Superiores Acatlán (UNAM) en la Lic. Matemáticas Aplicadas y Computación.
 
 #Formación laboral
+##Lucasian Lab
+######7 meses (Febrefo 2015 - Agosto 2015)
+Desarrollo de plataforma para el sistema nacional de Emprenedores del INADEM (Secretaría de Economía) desarrollando nuevos módulos e interfaces así como dando soporte en Frontend, Backend e infraestructura. Desarrollo de ideas y presentación de nuevas herramientas.
 
 ##Franquiciados
 ######4 meses como Freelance (Septiembre 2014 - Enero 2015)
@@ -101,9 +114,14 @@ Uso de JavaScript nativo para el desarrollo de aplicaciones de alto rendimiento 
  - Angular.js
  - Prototype.js
  - Ember.js
+ - Underscore
+ - Lowdash
  - Socket.io
  - Google (Maps, Charts, Drive, Mail y Analytics)
  - Velocity.js
+ - React.js
+ - Polymer.js
+ - Three.js
 
 #####Pre-procesadores
  - CoffeScript
@@ -116,6 +134,7 @@ Diseños adaptables de fácil mantenimiento con el uso de las últimas novedades
 #####Frameworks
  - Boostrap
  - Amazium
+ - Fundation
  - Normalize
  - Animate.css
  - Bootplus
@@ -149,22 +168,17 @@ Uso de PHP para el despliege de contenidos dinamicos, servicios y sistemas usand
  - ExpressionEngine
  - Wordpress
  - Drupal
- - MonjoMotor
- - SugarCRM
- - OpenCart
- - Magento
  - CakePHP
  - CodeIgniter
+ - Laravel
+ - Lumen
  - Yii
  - Zend
- - Laravel
- - FuelPHP
- - SlimPHP
+ - Slim
+ - Silex
  - Phalcon
  - ReactPHP
  - Twing
- - WebOrb
- - Ratchet
 
 
 #####Herramientas
@@ -174,23 +188,20 @@ Uso de PHP para el despliege de contenidos dinamicos, servicios y sistemas usand
  - Perl
  - CLI (Shell)
  - phpDaemon
- - VirtPHP
+ - HHVM
  - FakerPHP
  - ZeroMQ
 
 ##Javascript
-Actualmente utilizo el entorno Node.js para el desarrollo de aplicaciones enfocadas más a elementos de alta disponibilidad y a su vez con un rendimiento óptimo, escalable y robusto.
+Interprete Node.js para el desarrollo de aplicaciones enfocadas más a elementos de alta disponibilidad y a su vez con un rendimiento óptimo, escalable y robusto.
 
 #####Frameworks y CMS's
  - Express.js
  - Socket.io
  - KnockoutJS
  - RoboHydra
- - Calipso
+ - Sails
  - Meteor.js
-
-#####Herarmientas
- - NPM
 
 ##Python
 ######Veriones: 2.x y 3.x
@@ -198,10 +209,28 @@ Actualmente utilizo Python para el desarrollo de aplicaciones de contenido dinam
 
 #####Frameworks
  - Django
+ - Eve
+ - Flask
+
+## Java
+######Versiones: 8
+Uso de Java para desarrollo de sitios con alto contenido de servicios, desarrollo de aplicaciones para dispositivos con SO Android.
+
+#####Frameworks
+ - Spring
+
+
+## Groovy
+######Versiones: 2
+Uso de Groovy para el desarrollo de sitios web con altas tasas de transacciones, alta concurrencia y como fáicl medio para comunicar algunos servicios previamente hechos en Java.
+
+#####Frameworks
+ - Grails
+
 
 ##C/C++
 ######Versiones: C\++03, C\++11, C99 y C11;
-En el uso de C/C\++ la programación la hago mas enfocada a sistemas de manejo de memoria, optimizacion e implementación de algoritmos, servicios de busqueda e indexado, estadisticas y analisis de datos super masivos o complejos.
+En el uso de C/C\++ la programación la hago mas enfocada a sistemas de manejo de memoria, optimizacion e implementación de algoritmos, servicios de busqueda e indexado, estadísticas y análisis de datos super masivos o complejos.
 
 #####Frameworks
  - QT Framework
@@ -220,9 +249,11 @@ En el uso de C/C\++ la programación la hago mas enfocada a sistemas de manejo d
  - CouchDB
  - CouchBase
  - Cassandra
+ - ElasticSearch
 
 #Infraestructura
- - Manejo de servidores HTTP (Nginx y Apache).
+ - Balanceo de servidores e instancias con Haproxy.
+ - Manejo de servidores (Nginx, Apache, Tomcat, etc.).
  - Manejo de sockets e implementación de protocolos de comunicación.
  - Manejo de servidores SMTP, POP3 y IMAP.
  - Manejo de certificados, accesos y servicios de seguridad SSL.
@@ -230,12 +261,14 @@ En el uso de C/C\++ la programación la hago mas enfocada a sistemas de manejo d
  - Manejo de entornos (PHP, Node.js y Pyton) y sistemas de comunicacion (uso de protocolo CGI y sus variantes).
  - Desarrollo de servicios usando estandares/metodologías SAP, RFC, SOAP y REST.
  - Manejo de Bash para el desarrollo de script's de rutinas.
+ - Análisis y estadísticas de instancias, servicios y servidores usando ELK (ElasticSearch, LogStash y Kibana) complementado con Collectd
 
 ##MQS
  - AmazonSQS
  - StormMQ
  - IronMQ
  - ElasticMQ
+ - RabbitMQ
 
 ##Cache y aceleradores
  - Memcached
@@ -273,6 +306,7 @@ En el uso de C/C\++ la programación la hago mas enfocada a sistemas de manejo d
 ## Motores de Búsqueda de texto
  - Xapian
  - Sphinx
+ - ElasticSearch
 
 ## Gestionadores
  - LiquidPlaner
@@ -300,18 +334,7 @@ En aplicaciones móviles he desarrollado para las plataformas iOS, Android y Win
  - PhoneGap
  - Titanium
  - QT IDE
-
-#Redes Sociales
-En redes sociales me he desempeñado ya sea en la implementación de campañas, uso de las herramientas/servicios de las plataformas o bien en la creacion de aplicaciones. Algunas de las redes sociales que manejo con mayor facilidad son:
-
- - Facebook
- - Twitter
- - YouTube
- - Vimeo
- - Flickr
- - Tumblr
- - Linkedin
- - Pinterest
+ - Ion
 
 #Extras
 Lo siguiente son herramientas extras que utilizo en el ámbito laboral y que me ayudan en algunas tareas de desarrollo, preparación, optimización, mantenimiento, tiempos, diseños, etc.
@@ -326,7 +349,9 @@ Lo siguiente son herramientas extras que utilizo en el ámbito laboral y que me 
  - Dokku (Ubuntu)
  - Heroku
  - Puppet
- - Brew
+ - Haproxy
+ - Collecd
+ - Cacti
 
 [tecate]: http://www.tecate.com.mx/ "Tecate"
 [coorslight]: http://www.coorslight.com.mx/ "Coorslight"
@@ -335,8 +360,7 @@ Lo siguiente son herramientas extras que utilizo en el ámbito laboral y que me 
 [indio]: http://indiobeer.com/ "Indio Beer"
 [crowdfunder]: https://www.crowdfunder.com/ "Crowdfunder"
 [phone]: tel:525585360138 "Número de contacto"
-[phone2]: tel:525519397521
 [gmail]: mailto:theremsoe@gmail.com "Email de contacto"
 [github]: https://github.com/Theremsoe "Github"
-[linkedid]: https://github.com/Theremsoe "LinkedId"
+[linkedin]: https://mx.linkedin.com/in/theremsoe "Linkedin"
 [twitter]: https://twitter.com/theremsoe "Twitter"

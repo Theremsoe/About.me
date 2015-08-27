@@ -1,4 +1,14 @@
-#Acerca de mí.
+<table style="width: 100%;background-color: white">
+	<tr>
+		<td style="border: none; width: 50%; vertical-align: bottom;">
+			<h1>Acerca de mí.</h1>
+		</td>
+		<td style="border: none; width: 50%; text-align: right">
+			<img style="width: 100px; display: inline-block; height: auto; border-radius: 5px; vertical-align: -40px" src="https://avatars1.githubusercontent.com/u/1402411?v=3&s=460">
+		</td>
+	</tr>
+</table>
+
 
 ##¿Quién soy yo?
 Soy un Full Stack Developer que se ha desempeñado como lider y analista de proyectos y sus requerimientos. Mis áreas en los que me desempeño son Web (tanto Front como Back ) y en plataformas móviles como de escritorio.
@@ -6,16 +16,32 @@ Soy un Full Stack Developer que se ha desempeñado como lider y analista de proy
 ##Mis Datos personales.
 - **Nombre**: Julio C. Jaramillo
 - **Edad**: 25 años.
-- **Estado civíl**: Unión libre.
+- **Estado civíl**: Casado.
 - **Residencia actual**: Av. Picacho-Ajusco, delegación Tlalpan, México D.F.
 - **Experiencia laboral**: +6 años en entornos web, equipos móviles y de escritorio.
-- **Disponibilidad laboral**: inmediata.
-- **Escolaridad**: Licenciatura en Matemáticas Aplicadas y Computación (en proceso de titulación) en la FES Acatlán (UNAM).
+- **Disponibilidad laboral**: Inmediata.
+- **Escolaridad**: Licenciatura en Matemáticas Aplicadas y Computación en la FES Acatlán (UNAM).
 
 ##¿Y mis habilidades?
 Como Full Stack Developer mis habilidades se enfocan en diferentes áreas que van desde el mequetado, desarrollo, diseño, creación de ideas, interfaces, implementación de lógica y funcionalidad pasando por infraestructura en servidores (Unix y Linux), instalación de componentes, análisis de rendimiento y escalabilidad, protocolos de seguridad (SSL/TSL), algoritmos de codificación (AES, BCRYPT y TEA), implementación de seguridad (OpenSSL, LibSSL), hasta llegar como analista de requerimientos, desarrollo e implementación de proyecto, lider de equipos de desarrollo y consultor de tecnologías.
 
 #Experiencia Laboral
+
+##Lucasian Lab
+######7 meses (Febrefo 2015 - Agosto 2015)
+Desarrollo de plataforma para el sistema nacional de Emprenedores del INADEM (Secretaría de Economía) desarrollando nuevos módulos e interfaces así como dando soporte en Frontend, Backend e infraestructura. Desarrollo de ideas y presentación de nuevas herramientas.
+
+- **Backend**
+ - **Grails (Groovy Framework)** Como Framework principal para el desarrollo de la plataforma, así como servicios internos de la Secretaría de Gobernación.
+  - **Node.js**: Como servidor Frontend para el proyecto del INADEM, a su vez complementado con el plugin Grunt para compresion, parseado y compilado de archivos SASS, CoofeScript, Jade, etc.
+  - **Redis**: Como motor de almacenamiento de caché y sesiones generadas por Grails.
+  - **Oracle DB**: Como motor de base de datos principal.
+  - **Haproxy**: Como sistema balanceador de carga para 4 instancias de Grails.
+  - **Nginx**: Como servidor HTTP principal.
+
+- **Frontend**
+  - **Bootstrap**: Framework para el desarrollo rápido de las interfaces del proyecto.
+  - **AngularJS**: Framework para el desarrollo de la aplicación estipo All-in-one.
 
 ##Franquiciados
 ######4 meses como Freelance (Septiembre 2014 - Enero 2015)
@@ -113,7 +139,7 @@ En Intermark mi puesto laboral fue como Developer JR para luego tomar el puesto 
 ##¿Como pueden contactarme?
 Si te ha gustado mi perfil y mi experiencia laboral puedes contactarme por los siguientes medios:
 
-- **Teléfono:** [+52 5585360138][phone] y [+52 5519397521][phone2]
+- **Teléfono:** [+52 55 32537655][phone2]
 - **Mensajería:** WhatsApp, Telegram y Line.
 - **Skype**: theremsoe
 - **Linkedin**: [https://mx.linkedin.com/in/theremsoe][linkedid]
@@ -139,7 +165,7 @@ Si te ha gustado mi perfil y mi experiencia laboral puedes contactarme por los s
 
 <!-- Enlaces contacto -->
 [phone]: tel:525585360138
-[phone2]: tel:525519397521
+[phone2]: tel:5532537655
 [linkedid]: https://github.com/Theremsoe
 [github]: https://github.com/Theremsoe
 [gmail]: mailto:theremsoe@gmail.com
@@ -176,3 +202,5 @@ Si te ha gustado mi perfil y mi experiencia laboral puedes contactarme por los s
 [OpenCart]: http://www.opencart.com
 [Django]: https://www.djangoproject.com
 [Varnish]: https://www.varnish-cache.org
+
+<!-- https://www.facebook.com/adriana.cruzgonsalez -->
