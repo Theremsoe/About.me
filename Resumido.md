@@ -1,4 +1,4 @@
-<table style="width: 100%;background-color: white">
+<!--<table style="width: 100%;background-color: white">
 	<tr>
 		<td style="border: none; width: 50%; vertical-align: bottom;">
 			<h1>Acerca de mí.</h1>
@@ -7,7 +7,8 @@
 			<img style="width: 100px; display: inline-block; height: auto; border-radius: 5px; vertical-align: -40px" src="https://avatars1.githubusercontent.com/u/1402411?v=3&s=460">
 		</td>
 	</tr>
-</table>
+</table>-->
+#Acerca de mí.
 
 ##Persona
 FullStack Developer con más de 6 años de experiencia, con gusto por la programación y siempre dispuesto a tener nuevos retos.
